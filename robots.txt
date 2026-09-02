@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ckddn0221-cpu.github.io/Claude-code-toolkit/sitemap.xml
